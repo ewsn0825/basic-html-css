@@ -20,8 +20,11 @@ h1 {
   font-size: 3em;
 }
 
+div{
+  font-size: 4px;
+}
 p {
-  font-size: 2em;
+  /* font-size: 2em; */
   /* line-height는 넘버 단위로 사용한다. */
   line-height: 1.5;
 }
